@@ -1,0 +1,246 @@
+110580
+110580
+294948
+248836
+
+Showing data for heap: 0x3ffb8000 
+Block 0x3ffb8180 data, size: 356 bytes, Free: No 
+Block 0x3ffb82e8 data, size: 96 bytes, Free: No
+Block 0x3ffb834c data, size: 96 bytes, Free: No 
+Block 0x3ffb83b0 data, size: 492 bytes, Free: No
+Block 0x3ffb85a0 data, size: 2792 bytes, Free: No
+Block 0x3ffb908c data, size: 524 bytes, Free: No
+Block 0x3ffb929c data, size: 128 bytes, Free: No 
+Block 0x3ffb9320 data, size: 204 bytes, Free: No
+Block 0x3ffb93f0 data, size: 96 bytes, Free: No
+Block 0x3ffb9454 data, size: 272 bytes, Free: No 
+Block 0x3ffb9568 data, size: 336 bytes, Free: No
+Block 0x3ffb96bc data, size: 248 bytes, Free: No
+Block 0x3ffb97b8 data, size: 268 bytes, Free: No
+Block 0x3ffb98c8 data, size: 96 bytes, Free: No 
+Block 0x3ffb992c data, size: 96 bytes, Free: No
+Block 0x3ffb9990 data, size: 96 bytes, Free: No
+Block 0x3ffb99f4 data, size: 20 bytes, Free: No
+Block 0x3ffb9a0c data, size: 16 bytes, Free: Yes 
+
+Showing data for heap: 0x3ffb0000
+Block 0x3ffb02e4 data, size: 48 bytes, Free: No
+Block 0x3ffb0318 data, size: 8204 bytes, Free: No
+Block 0x3ffb2328 data, size: 96 bytes, Free: No 
+Block 0x3ffb238c data, size: 96 bytes, Free: No
+Block 0x3ffb23f0 data, size: 52 bytes, Free: No
+Block 0x3ffb2428 data, size: 24 bytes, Free: No 
+Block 0x3ffb2444 data, size: 16192 bytes, Free: Yes
+
+Showing data for heap: 0x3ffae6e0
+Block 0x3ffae860 data, size: 48 bytes, Free: No
+Block 0x3ffae894 data, size: 5752 bytes, Free: Yes 
+
+Showing data for heap: 0x3ffaff10
+Block 0x3ffaffdc data, size: 16 bytes, Free: No
+Block 0x3ffafff0 data, size: 12 bytes, Free: Yes
+
+Showing data for heap: 0x3ffb6388 
+Block 0x3ffb6508 data, size: 264 bytes, Free: No
+Block 0x3ffb6614 data, size: 20 bytes, Free: No
+Block 0x3ffb662c data, size: 24 bytes, Free: No
+Block 0x3ffb6648 data, size: 28 bytes, Free: No 
+Block 0x3ffb6668 data, size: 204 bytes, Free: No
+Block 0x3ffb6738 data, size: 204 bytes, Free: No
+Block 0x3ffb6808 data, size: 440 bytes, Free: No 
+Block 0x3ffb69c4 data, size: 96 bytes, Free: No
+Block 0x3ffb6a28 data, size: 96 bytes, Free: No
+Block 0x3ffb6a8c data, size: 96 bytes, Free: No
+Block 0x3ffb6af0 data, size: 140 bytes, Free: No 
+Block 0x3ffb6b80 data, size: 140 bytes, Free: No
+Block 0x3ffb6c10 data, size: 24 bytes, Free: No
+Block 0x3ffb6c2c data, size: 96 bytes, Free: No 
+Block 0x3ffb6c90 data, size: 96 bytes, Free: No
+Block 0x3ffb6cf4 data, size: 20 bytes, Free: No
+Block 0x3ffb6d0c data, size: 96 bytes, Free: No
+Block 0x3ffb6d70 data, size: 24 bytes, Free: No 
+Block 0x3ffb6d8c data, size: 20 bytes, Free: No
+Block 0x3ffb6da4 data, size: 96 bytes, Free: No
+Block 0x3ffb6e08 data, size: 96 bytes, Free: No
+Block 0x3ffb6e6c data, size: 96 bytes, Free: No 
+Block 0x3ffb6ed0 data, size: 96 bytes, Free: No
+Block 0x3ffb6f34 data, size: 1036 bytes, Free: No
+Block 0x3ffb7344 data, size: 356 bytes, Free: No
+Block 0x3ffb74ac data, size: 96 bytes, Free: No 
+Block 0x3ffb7510 data, size: 96 bytes, Free: No
+Block 0x3ffb7574 data, size: 96 bytes, Free: No
+Block 0x3ffb75d8 data, size: 1036 bytes, Free: No 
+Block 0x3ffb79e8 data, size: 356 bytes, Free: No
+Block 0x3ffb7b50 data, size: 96 bytes, Free: No
+Block 0x3ffb7bb4 data, size: 96 bytes, Free: No
+Block 0x3ffb7c18 data, size: 16 bytes, Free: Yes 
+Block 0x3ffb7c2c data, size: 96 bytes, Free: No
+Block 0x3ffb7c90 data, size: 96 bytes, Free: No
+Block 0x3ffb7cf4 data, size: 96 bytes, Free: No 
+Block 0x3ffb7d58 data, size: 20 bytes, Free: No
+Block 0x3ffb7d70 data, size: 28 bytes, Free: No
+Block 0x3ffb7d90 data, size: 356 bytes, Free: No
+Block 0x3ffb7ef8 data, size: 20 bytes, Free: No 
+Block 0x3ffb7f10 data, size: 24 bytes, Free: No
+Block 0x3ffb7f2c data, size: 32 bytes, Free: No
+Block 0x3ffb7f50 data, size: 60 bytes, Free: No
+Block 0x3ffb7f90 data, size: 60 bytes, Free: No 
+Block 0x3ffb7fd0 data, size: 20 bytes, Free: No
+Block 0x3ffb7fe8 data, size: 20 bytes, Free: No
+
+Showing data for heap: 0x3ffb9a20 
+Block 0x3ffb9d04 data, size: 4620 bytes, Free: No
+Block 0x3ffbaf14 data, size: 60 bytes, Free: No
+Block 0x3ffbaf54 data, size: 60 bytes, Free: No
+Block 0x3ffbaf94 data, size: 96 bytes, Free: No 
+Block 0x3ffbaff8 data, size: 96 bytes, Free: No
+Block 0x3ffbb05c data, size: 20 bytes, Free: No
+Block 0x3ffbb074 data, size: 24 bytes, Free: No
+Block 0x3ffbb090 data, size: 4980 bytes, Free: Yes 
+Block 0x3ffbc408 data, size: 1036 bytes, Free: No
+Block 0x3ffbc818 data, size: 356 bytes, Free: No
+Block 0x3ffbc980 data, size: 1036 bytes, Free: No 
+Block 0x3ffbcd90 data, size: 356 bytes, Free: No
+Block 0x3ffbcef8 data, size: 24 bytes, Free: No
+Block 0x3ffbcf14 data, size: 28 bytes, Free: No
+Block 0x3ffbcf34 data, size: 24 bytes, Free: No 
+Block 0x3ffbcf50 data, size: 24 bytes, Free: No
+Block 0x3ffbcf6c data, size: 32 bytes, Free: No
+Block 0x3ffbcf90 data, size: 96 bytes, Free: No
+Block 0x3ffbcff4 data, size: 52 bytes, Free: No 
+Block 0x3ffbd02c data, size: 116 bytes, Free: No
+Block 0x3ffbd0a4 data, size: 520 bytes, Free: No
+Block 0x3ffbd2b0 data, size: 140 bytes, Free: No 
+Block 0x3ffbd340 data, size: 140 bytes, Free: No
+Block 0x3ffbd3d0 data, size: 140 bytes, Free: No
+Block 0x3ffbd460 data, size: 140 bytes, Free: No 
+Block 0x3ffbd4f0 data, size: 40 bytes, Free: No
+Block 0x3ffbd51c data, size: 40 bytes, Free: No
+Block 0x3ffbd548 data, size: 40 bytes, Free: No
+Block 0x3ffbd574 data, size: 40 bytes, Free: No 
+Block 0x3ffbd5a0 data, size: 40 bytes, Free: No
+Block 0x3ffbd5cc data, size: 48 bytes, Free: No
+Block 0x3ffbd600 data, size: 1316 bytes, Free: Yes
+
+Showing data for heap: 0x3ffc9160 
+Block 0x3ffc94cc data, size: 92976 bytes, Free: Yes
+
+Showing data for heap: 0x3ffe0440
+Block 0x3ffe05e4 data, size: 14648 bytes, Free: Yes
+
+Showing data for heap: 0x3ffe4350
+Block 0x3ffe46bc data, size: 112960 bytes, Free: Yes 
+
+Showing data for heap: 0x3ffb8000
+Block 0x3ffb8180 data, size: 356 bytes, Free: No
+Block 0x3ffb82e8 data, size: 96 bytes, Free: No 
+Block 0x3ffb834c data, size: 96 bytes, Free: No
+Block 0x3ffb83b0 data, size: 492 bytes, Free: No
+Block 0x3ffb85a0 data, size: 2792 bytes, Free: No
+Block 0x3ffb908c data, size: 524 bytes, Free: No 
+Block 0x3ffb929c data, size: 128 bytes, Free: No
+Block 0x3ffb9320 data, size: 204 bytes, Free: No
+Block 0x3ffb93f0 data, size: 96 bytes, Free: No
+Block 0x3ffb9454 data, size: 272 bytes, Free: No
+Block 0x3ffb9568 data, size: 336 bytes, Free: No
+Block 0x3ffb96bc data, size: 248 bytes, Free: No
+Block 0x3ffb97b8 data, size: 268 bytes, Free: No 
+Block 0x3ffb98c8 data, size: 96 bytes, Free: No
+Block 0x3ffb992c data, size: 96 bytes, Free: No
+Block 0x3ffb9990 data, size: 96 bytes, Free: No 
+Block 0x3ffb99f4 data, size: 20 bytes, Free: No
+Block 0x3ffb9a0c data, size: 16 bytes, Free: Yes
+
+Showing data for heap: 0x3ffb0000
+Block 0x3ffb02e4 data, size: 48 bytes, Free: No
+Block 0x3ffb0318 data, size: 8204 bytes, Free: No 
+Block 0x3ffb2328 data, size: 96 bytes, Free: No
+Block 0x3ffb238c data, size: 96 bytes, Free: No
+Block 0x3ffb23f0 data, size: 52 bytes, Free: No 
+Block 0x3ffb2428 data, size: 24 bytes, Free: No
+Block 0x3ffb2444 data, size: 16192 bytes, Free: Yes
+
+Showing data for heap: 0x3ffae6e0
+Block 0x3ffae860 data, size: 48 bytes, Free: No 
+Block 0x3ffae894 data, size: 5752 bytes, Free: Yes
+
+Showing data for heap: 0x3ffaff10
+Block 0x3ffaffdc data, size: 16 bytes, Free: No
+Block 0x3ffafff0 data, size: 12 bytes, Free: Yes 
+
+Showing data for heap: 0x3ffb6388
+Block 0x3ffb6508 data, size: 264 bytes, Free: No
+Block 0x3ffb6614 data, size: 20 bytes, Free: No 
+Block 0x3ffb662c data, size: 24 bytes, Free: No
+Block 0x3ffb6648 data, size: 28 bytes, Free: No
+Block 0x3ffb6668 data, size: 204 bytes, Free: No
+Block 0x3ffb6738 data, size: 204 bytes, Free: No 
+Block 0x3ffb6808 data, size: 440 bytes, Free: No
+Block 0x3ffb69c4 data, size: 96 bytes, Free: No
+Block 0x3ffb6a28 data, size: 96 bytes, Free: No 
+Block 0x3ffb6a8c data, size: 96 bytes, Free: No
+Block 0x3ffb6af0 data, size: 140 bytes, Free: No
+Block 0x3ffb6b80 data, size: 140 bytes, Free: No
+Block 0x3ffb6c10 data, size: 24 bytes, Free: No 
+Block 0x3ffb6c2c data, size: 96 bytes, Free: No
+Block 0x3ffb6c90 data, size: 96 bytes, Free: No
+Block 0x3ffb6cf4 data, size: 20 bytes, Free: No
+Block 0x3ffb6d0c data, size: 96 bytes, Free: No 
+Block 0x3ffb6d70 data, size: 24 bytes, Free: No
+Block 0x3ffb6d8c data, size: 20 bytes, Free: No
+Block 0x3ffb6da4 data, size: 96 bytes, Free: No
+Block 0x3ffb6e08 data, size: 96 bytes, Free: No 
+Block 0x3ffb6e6c data, size: 96 bytes, Free: No
+Block 0x3ffb6ed0 data, size: 96 bytes, Free: No
+Block 0x3ffb6f34 data, size: 1036 bytes, Free: No
+Block 0x3ffb7344 data, size: 356 bytes, Free: No 
+Block 0x3ffb74ac data, size: 96 bytes, Free: No
+Block 0x3ffb7510 data, size: 96 bytes, Free: No
+Block 0x3ffb7574 data, size: 96 bytes, Free: No 
+Block 0x3ffb75d8 data, size: 1036 bytes, Free: No
+Block 0x3ffb79e8 data, size: 356 bytes, Free: No
+Block 0x3ffb7b50 data, size: 96 bytes, Free: No
+Block 0x3ffb7bb4 data, size: 96 bytes, Free: No
+Block 0x3ffb7c18 data, size: 16 bytes, Free: Yes
+Block 0x3ffb7c2c data, size: 96 bytes, Free: No
+Block 0x3ffb7c90 data, size: 96 bytes, Free: No 
+Block 0x3ffb7cf4 data, size: 96 bytes, Free: No
+Block 0x3ffb7d58 data, size: 20 bytes, Free: No
+Block 0x3ffb7d70 data, size: 28 bytes, Free: No
+Block 0x3ffb7d90 data, size: 356 bytes, Free: No
+Block 0x3ffb7ef8 data, size: 20 bytes, Free: No
+Block 0x3ffb7f10 data, size: 24 bytes, Free: No
+Block 0x3ffb7f2c data, size: 32 bytes, Free: No 
+Block 0x3ffb7f50 data, size: 60 bytes, Free: No
+Block 0x3ffb7f90 data, size: 60 bytes, Free: No
+Block 0x3ffb7fd0 data, size: 20 bytes, Free: No
+Block 0x3ffb7fe8 data, size: 20 bytes, Free: No 
+
+Showing data for heap: 0x3ffb9a20
+Block 0x3ffb9d04 data, size: 4620 bytes, Free: No
+Block 0x3ffbaf14 data, size: 60 bytes, Free: No
+Block 0x3ffbaf54 data, size: 60 bytes, Free: No 
+Block 0x3ffbaf94 data, size: 96 bytes, Free: No
+Block 0x3ffbaff8 data, size: 96 bytes, Free: No
+Block 0x3ffbd3d0 data, size: 140 bytes, Free: No
+Block 0x3ffbd460 data, size: 140 bytes, Free: No
+Block 0x3ffbd4f0 data, size: 40 bytes, Free: No
+Block 0x3ffbd51c data, size: 40 bytes, Free: No
+Block 0x3ffbd548 data, size: 40 bytes, Free: No
+Block 0x3ffbd574 data, size: 40 bytes, Free: No
+Block 0x3ffbd5a0 data, size: 40 bytes, Free: No
+Block 0x3ffbd5cc data, size: 48 bytes, Free: No
+Block 0x3ffbd600 data, size: 1316 bytes, Free: Yes
+
+Showing data for heap: 0x3ffc9160
+Block 0x3ffc94cc data, size: 92976 bytes, Free: Yes
+
+Showing data for heap: 0x3ffe0440
+Block 0x3ffe05e4 data, size: 14648 bytes, Free: Yes
+
+Showing data for heap: 0x3ffe4350
+Block 0x3ffe46bc data, size: 112960 bytes, Free: Yes
+
+Showing data for heap: 0x400948b0
+Block 0x40094bd8 data, size: 46116 bytes, Free: Yes
+1

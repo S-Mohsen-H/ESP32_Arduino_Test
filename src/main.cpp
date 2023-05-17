@@ -1,16 +1,22 @@
 #include "Inclusions.h"
 #include "funcSet1.h"
 #include "MemoryPool.h"
-
+#include "esp_heap_caps.h"
+#include "esp_heap_trace.h"
 // #include "heap_4.c"
 // spiffs_config cfg;
-
+const HeapRegion_t xHeapRegions[] = {
+    {(uint8_t *)0x3f800000, 0x4000},
+    {(uint8_t *)0x3f840000, 0x4000},
+    {NULL, 0}};
 void setup()
 {
-  
-  SPIFFS.begin(true,"/SPIFFS",10U,NULL);
-  Serial.begin(115200);
+  HeapRegion_t reg;
 
+  //vPortDefineHeapRegions(xHeapRegions);
+heap_caps_add_re  gion()
+  SPIFFS.begin(true, "/SPIFFS", 10U, NULL);
+  Serial.begin(115200);
 }
 
 void loop()
@@ -21,7 +27,7 @@ void loop()
 
   switch (fCommand[0])
   {
-  case 'c':
+  case 'c': // mempool
   {
     const size_t blockSize = 32;
     const uint8_t blockCount = 10;
@@ -47,7 +53,7 @@ void loop()
     }
     break;
   }
-  case 'd': //////////// doesn't deallocate
+  case 'd': // mempool doesn't deallocate
   {
     const size_t blockSize = 32;
     const uint8_t blockCount = 10;
@@ -73,12 +79,12 @@ void loop()
     }
     break;
   }
-  case 'e':
+  case 'e': // 1 new char without free
   {
     char *ptr = new (std::nothrow) char;
   }
   break;
-  case 'f':
+  case 'f': // 1 new char with free
   {
     char *ptr = new (std::nothrow) char;
     free(ptr);
@@ -106,13 +112,11 @@ void loop()
   case 'b':
     Serial.println(heap_caps_get_largest_free_block(MALLOC_CAP_32BIT));
     Serial.println(heap_caps_get_largest_free_block(MALLOC_CAP_8BIT));
-    Serial.println(heap_caps_get_largest_free_block(MALLOC_CAP_DEFAULT));
-    Serial.println(heap_caps_get_largest_free_block(MALLOC_CAP_SPIRAM));
 
     Serial.println(heap_caps_get_free_size(MALLOC_CAP_32BIT));
     Serial.println(heap_caps_get_free_size(MALLOC_CAP_8BIT));
-    Serial.println(heap_caps_get_free_size(MALLOC_CAP_DEFAULT));
-    Serial.println(heap_caps_get_free_size(MALLOC_CAP_SPIRAM));
+    heap_caps_dump(MALLOC_CAP_8BIT);
+    heap_caps_dump(MALLOC_CAP_32BIT);
 
     Serial.println(heap_caps_check_integrity_all(1));
 
