@@ -5,6 +5,8 @@
 
 #define ssid "TelsaCo2"
 #define password "2300723007"
+#define c3_frequency 130.81
+
 
 extern WiFiClient WIFI_C;
 // extern HTTPClient http_C;
